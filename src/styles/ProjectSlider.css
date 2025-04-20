@@ -1,0 +1,25 @@
+.project-slider {
+  padding-bottom: 50px !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #60A5FA !important;
+  background-color: rgba(17, 24, 39, 0.5);
+  padding: 2rem;
+  border-radius: 50%;
+  transform: scale(0.7);
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: rgba(17, 24, 39, 0.8);
+}
+
+.swiper-pagination-bullet {
+  background-color: #60A5FA !important;
+}
+
+.swiper-pagination {
+  bottom: 0 !important;
+} 
